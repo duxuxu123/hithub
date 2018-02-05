@@ -1,0 +1,28 @@
+/*
+* @Author: Lenovo
+* @Date:   2018-01-30 09:21:07
+* @Last Modified by:   Lenovo
+* @Last Modified time: 2018-01-30 11:40:25
+*/
+.box{
+	width: 100px;
+	height: 100px;
+	/* background: red; */
+	background-image: url('img/07a9839ac686fda57d019ac83467fa4d64fc2f3525c2e-juzysF_fw658.jpg');
+	background-size: cover;
+	background-position: center;
+	
+	border: 1px solid #000;
+	display: inline-block;
+}
+.text{
+	width: 100px;
+	height: 100px;
+	background: green;
+	border: 1px solid #000;
+	display: block;
+}
+.pic{
+	width: 100px;
+	height: 100px;
+}
